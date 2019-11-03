@@ -1,24 +1,24 @@
 <package>
-	<id></id>
-	<name></name>
-	<version>1.0</version>
+	<id>com.julioverne.cracktool4</id>
+	<name>julioverne</name>
+	<version>4.0~beta5</version>
 	<compatibility>
 		<firmware>
-			<miniOS></miniOS>
-			<maxiOS></maxiOS>
+			<miniOS>10</miniOS>
+			<maxiOS>11</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
+		<package>externalLinksList</package>
 	</dependencies>
-	<shortDescription></shortDescription>
+	<shortDescription>stylesheet</shortDescription>
 	<descriptionlist>
 		<description></description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change></change>
+		<change>Initial release</change>
 	</changelog>
 	<links></links>
 </package>
